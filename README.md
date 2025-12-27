@@ -1,7 +1,7 @@
 # HomeZilla Data Analytics Project
 
 ## 📌 Project Overview
-**HomeZilla** offers innovative web-listing services for real estate agents and homebuyers in Canada. This project analyzes user interaction data—specifically how users browse property photos—to optimize the online viewing experience.
+**HomeZilla** offers innovative web-listing services for real estate agents and homebuyers in Canada. This project analyzes user interaction data specifically how users browse property photos to optimize the online viewing experience.
 
 **Objective**: To determine which features of a property list capture the most user attention and to recommend an optimal sequence of photos to maximize engagement.
 
